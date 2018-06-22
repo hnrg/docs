@@ -11,7 +11,6 @@ Bienvenido a la documentación de HNRG's App!
 
    intro.rst
    roles.rst
-   turnos.rst
 
 Indices and tablas
 ==================
