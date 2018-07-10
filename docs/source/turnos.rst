@@ -7,7 +7,7 @@ API para la gestión de turnos
 La app provee una interfaz para interactuar con el módulo de gestión
 de turnos del hospital.
 
-La API se encuentra en la URL :code:`grupo47.proyecto2017.linti.unlp.edu.ar/api/turnos`.
+La API se encuentra en la URL :code:`grupo74.proyecto2017.linti.unlp.edu.ar/api/turnos`.
 
 .. index:: métodos API de turnos
 
